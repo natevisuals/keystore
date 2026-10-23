@@ -11,18 +11,5 @@
     "created_at_utc": "2026-10-23T19:32:15.554418+00:00",
     "expires_at": null,
     "generated_by_discord_id": "1431995372280090667"
-  },
-  "SAB-3455A7483E86CEFB9CAB422A4C495CA8": {
-    "script": "sabspawner",
-    "script_name": "SAB Spawner",
-    "status": "active",
-    "license_type": "lifetime",
-    "discord_user_id": "1431995372280090667",
-    "discord_username": "n4tewon",
-    "roblox_user_id": 10705994740,
-    "roblox_username": "9eebe",
-    "created_at_utc": "2026-10-23T19:54:09.754724+00:00",
-    "expires_at": null,
-    "generated_by_discord_id": "1431995372280090667"
   }
 }
