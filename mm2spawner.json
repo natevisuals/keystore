@@ -1,1 +1,16 @@
-{}
+{
+  "MM2SPAWN-D4AA3D1127BA7BFE4A72E368606162DF": {
+    "script": "mm2spawner",
+    "script_name": "MM2",
+    "status": "active",
+    "license_type": "lifetime",
+    "discord_user_id": "1431995372280090667",
+    "discord_username": "n4tewon",
+    "roblox_user_id": null,
+    "roblox_username": null,
+    "binding_status": "unbound",
+    "created_at_utc": "2026-11-09T19:45:13.061360+00:00",
+    "expires_at": null,
+    "generated_by_discord_id": "1431995372280090667"
+  }
+}
