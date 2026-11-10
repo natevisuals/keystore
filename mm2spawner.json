@@ -12,5 +12,19 @@
     "created_at_utc": "2026-11-09T19:45:13.061360+00:00",
     "expires_at": null,
     "generated_by_discord_id": "1431995372280090667"
+  },
+  "MM2SPAWN-EF50882F7983723E6EF9C900D4293BA8": {
+    "script": "mm2spawner",
+    "script_name": "MM2",
+    "status": "active",
+    "license_type": "lifetime",
+    "discord_user_id": "1482414711676080178",
+    "discord_username": "2g5q",
+    "roblox_user_id": null,
+    "roblox_username": null,
+    "binding_status": "unbound",
+    "created_at_utc": "2026-11-10T19:17:13.577841+00:00",
+    "expires_at": null,
+    "generated_by_discord_id": "1431995372280090667"
   }
 }
